@@ -2,7 +2,7 @@ Metadata-Version: 2.2
 Name: py2notebook-ai
 Version: 0.2.0
 Summary: A Python library to convert scripts into Jupyter Notebooks with AI-generated comments.
-Home-page: https://github.com/TumCucTom/py2notebook-ai
+Home-page: https://github.com/thomas-bale/py2notebook-ai
 Author: Thomas Bale
 Author-email: tokbale@outlook.com
 License: MIT

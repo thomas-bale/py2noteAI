@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Thomas Bale",
     author_email="tokbale@outlook.com",  # Replace with your email
-    url="https://github.com/TumCucTom/py2notebook-ai",
+    url="https://github.com/thomas-bale/py2notebook-ai",
     license="MIT",
     packages=find_packages(),
     install_requires=[
